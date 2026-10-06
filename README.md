@@ -70,7 +70,7 @@ cais/
 ### 1. Клонирование и настройка окружения
 
 ```bash
-git clone https://github.com/parkhomenko-m/cais
+git clone https://github.com/maximbezdomniy/cais
 cd cais
 python3 -m venv venv
 
