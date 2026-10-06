@@ -1,0 +1,4 @@
+flet>=0.24.0
+gigachat>=0.1.35
+SpeechRecognition>=3.10.0
+PyAudio>=0.2.14

@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+
+# Build artifacts (PyInstaller)
+build/
+dist/
+*.spec
+!GigaChatClient.spec
+
+# macOS artifacts
+.DS_Store
+__MACOSX/
+
+# IDE
+.idea/
+.vscode/
+
+# Secrets
+.env
+*.key
